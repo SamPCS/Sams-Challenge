@@ -21,6 +21,6 @@ Format: flag{MD5 Hash}
 Notice: This Powershell is safe to run and contains no malware. If you are not familiar with analyzing scripts on your local machine, try out this helpful resource: https://tio.run/#
 
 ## 🏆 Podium
-- 1st: (250 Crewhu)
+- 1st: Casey
 - 2nd: (125 Crewhu)
 - 3rd: (125 Crewhu)
