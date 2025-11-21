@@ -6,7 +6,7 @@ Teams Sam the flag when you find it!
 Format: flag{MD5 Hash}
 
 ## 🏆 Podium
-- 1st: (250 Crewhu)
+- 1st: Casey
 - 2nd: (125 Crewhu)
 - 3rd: (125 Crewhu)
 
