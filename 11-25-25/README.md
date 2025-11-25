@@ -7,5 +7,5 @@ Teams Sam the flag when you find it! Format: flag{...}
 ## Podium
 
 - 1st Place: Casey
-- 2nd Place (125 Crewhu)
+- 2nd Place Nate
 - 3rd Place (125 Crewhu)
