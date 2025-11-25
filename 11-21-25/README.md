@@ -7,7 +7,7 @@ Format: flag{MD5 Hash}
 
 ## 🏆 Podium
 - 1st: Casey
-- 2nd: (125 Crewhu)
+- 2nd: Raulston
 - 3rd: (125 Crewhu)
 
 # 💻 Get Powershelled (Advanced Challenge)
