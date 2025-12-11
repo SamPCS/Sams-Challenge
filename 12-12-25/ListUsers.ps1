@@ -1,7 +1,7 @@
 # This is the powershell tutorial code
 
 #Save the string to a variable
-$string = "Hello World"
+$greeting = "Hello World"
 
 #Print string
-Write-Output($string)
+Write-Output($greeting)
