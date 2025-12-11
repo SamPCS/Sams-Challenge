@@ -1,0 +1,1 @@
+I should just use Rewst to perform these requests, that way I won't lose the flag... oh sugar where is the flag?????
