@@ -6,6 +6,6 @@ Teams Sam the flag when you find it! Format: flag{MD5}
 
 ## Podium
 
-- 1st Place: 
+- 1st Place: Casey
 - 2nd Place: 
 - 3rd Place: 
