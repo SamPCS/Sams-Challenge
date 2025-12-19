@@ -26,7 +26,7 @@ Teams Sam the flag when you find it! Format: flag{MD5}
 - 2nd Place: 
 - 3rd Place: 
 
-# I AM THE ADMIN
+# I AM THE ADMIN (Extreme)
 
 Whoever coded this login page is definitely getting fired, I can't log in no matter what credentials I try! Can you take a look for me? http://10.0.2.105
 
