@@ -37,5 +37,5 @@ Teams Sam the flag when you find it! Format: flag{MD5}
 ## Podium
 
 - 1st Place: Olivia
-- 2nd Place: 
+- 2nd Place: Casey
 - 3rd Place: 
